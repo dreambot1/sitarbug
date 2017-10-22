@@ -46,7 +46,9 @@ a {
 	left: 0;
 	top: 0;
 	height: 100%;
-	background: #f5f7f9;
+	//background: #f5f7f9;
+  background: #ffdd22;
+  //background: #eeddff;
 	padding: 7em 0 0 0;
 	border-right: 1px solid #d6dce0;
 	#logo {
@@ -119,8 +121,11 @@ a {
 	#header {
 		padding: 1em 3em;
 		border-bottom: 1px solid #d6dce0;
-		background: #f5f7f9;
+		//background: #f5f7f9;
+    //background: #ffcc11;
+    background: #eeddff;
 		color: #9eafba;
+    //color: #ffc300;
 		p {
 			display: inline;
 		}
